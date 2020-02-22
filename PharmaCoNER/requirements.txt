@@ -1,0 +1,4 @@
+numpy
+scipy
+theano==1.0.4
+fasttext==0.9.1
